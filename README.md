@@ -3,8 +3,8 @@ Wo Berlin ungleich ist: Sozialstruktur nach Planungsräumen
 Thematische Karte der sozialen Lage in Berlin, erstellt mit QGIS. Die Statusklasse (hoch, mittel, niedrig, sehr niedrig) wird nur auf bebauten Wohnflächen gezeigt, Wälder, Seen und Freiflächen bleiben grau.
 
 Daten
-Planungsräume mit Statusklasse: Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, Monitoring Soziale Stadtentwicklung Berlin [Jahr]
-Wohnflächen: OpenStreetMap, per QGIS-Plugin QuickOSM geladen (landuse=residential [weitere Werte ergänzen, falls verwendet]), Abruf am [Datum]
+Planungsräume mit Statusklasse: Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, Monitoring Soziale Stadtentwicklung Berlin (2025)
+Wohnflächen: OpenStreetMap, per QGIS-Plugin QuickOSM geladen (landuse=residential) , Abruf am 18.10.26
 KBS: EPSG:25833
 
 Methode (QGIS)
