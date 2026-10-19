@@ -25,5 +25,6 @@ Quellen
 Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin
 © OpenStreetMap-Mitwirkende (ODbL)
 Autor: Victor Mazurov
+<img width="3507" height="2480" alt="karte_berlin" src="https://github.com/user-attachments/assets/1009f7f1-bd44-41a9-8ada-97b06b70900f" />
 
 
