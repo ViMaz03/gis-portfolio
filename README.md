@@ -27,4 +27,3 @@ Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin
 Autor: Victor Mazurov
 
 
-<img width="3507" height="2480" alt="Berlin_Karte" src="https://github.com/user-attachments/assets/22d77a18-49c1-4155-8b11-a88f6bbf9be8" />
