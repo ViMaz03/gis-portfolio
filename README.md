@@ -31,5 +31,6 @@ Autor: Victor Mazurov
 
 Bevölkerungsverteilungen in den Lebensweltlich orientierten Räumen Berlins (2019)
 
-<img width="3519" height="2480" alt="Berlin_lor_drucklayout" src="https://github.com/user-attachments/assets/c4f89983-7afa-4034-a2f7-6ea86c6a5550" />
+<img width="3519" height="2480" alt="Berlin_lor_drucklayout" src="https://github.com/user-attachments/assets/e2eb2c85-0afd-412d-b057-c17cb96f377e" />
+
 
