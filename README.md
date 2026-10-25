@@ -25,6 +25,11 @@ Quellen
 Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin
 © OpenStreetMap-Mitwirkende (ODbL)
 Autor: Victor Mazurov
+
 <img width="3507" height="2480" alt="karte_berlin" src="https://github.com/user-attachments/assets/1009f7f1-bd44-41a9-8ada-97b06b70900f" />
 
+
+Bevölkerungsverteilungen in den Lebensweltlich orientierten Räumen Berlins (2019)
+
+<img width="3519" height="2480" alt="Berlin_lor_drucklayout" src="https://github.com/user-attachments/assets/c4f89983-7afa-4034-a2f7-6ea86c6a5550" />
 
